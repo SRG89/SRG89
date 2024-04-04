@@ -76,6 +76,14 @@
 ![](https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30)
 &nbsp;
 
+## Connect me via
+
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077b5&color=f3f7fa)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=White&color=f3f7fa)
+&nbsp;&nbsp;
+
+
 
 
 
