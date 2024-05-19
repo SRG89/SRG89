@@ -7,6 +7,13 @@
 
 <img align=top src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="drawing" width="100%"/>
 
+## About Me
+
+- I'm passionate about using technology to streamline processes and optimize efficiency.
+- I'm currently looking for job as a DevOps Engineer
+- I like to build, toubleshoot and automate stuff whenever possible
+- When I am not working, I like to read books and play portal puzzles
+  
 <h3 align="left">Devops Tools Stack:</h3>
 <div>
 
