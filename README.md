@@ -88,7 +88,7 @@
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=White&color=f3f7fa)][Twitter]
 &nbsp;&nbsp;
 
-[Twitter]: https://twitter.com/SRG89
+[Twitter]: https://twitter.com/onlyonesuyog
 [Linkedin]: https://linkedin.com/in/srg89
 
 
