@@ -1,9 +1,9 @@
+<h1 align="center">Hi 👋, I'm Suyog</h1>
+<h3 align="center">DevOps and Cloud Enthusiast </h3>
 
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&background=76FF4A00&center=true&vCenter=true&multiline=true&width=435&height=100&lines=HELLO+%F0%9F%91%8B%2C+I'M+SUYOG;+ Welcome+To+My+Github+Page." alt="Typing SVG" />
-    </a>
-</h1>
+
+
+
 
 <img align=top src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="drawing" width="100%"/>
 
