@@ -12,7 +12,10 @@
 - I'm passionate about using technology to streamline processes and optimize efficiency.
 - I'm currently looking for job as a DevOps Engineer
 - I like to build, toubleshoot and automate stuff whenever possible
-- When I am not working, I like to read books and play portal puzzles
+- I love to tackle complex debugging sessions that unlock system mysteries.
+- Eager to collaborate with teams on scalable infrastructure solutions.
+- When I am not working, I like to read books and play portal puzzles.
+
   
 <h3 align="left">Devops Tools Stack:</h3>
 <div>
@@ -70,6 +73,12 @@
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ed8b00&logoWidth=30&color=f3f7fa)
 &nbsp;
 
+## Skills
+
+- Tools: Terraform, AWS, Git, Docker
+- Focus: Infrastructure as Code, Cloud Security
+[![AWS Certified Cloud Practitioner]
+(https://images.credly.com/size/340*340/images/00634e1a-ea7a-4d29-9a66-296c22beaea3d/image.png)](https://www.credly.com/badges/8564deda-8802-453d-879d-6c47a6f73e97/public_url)
 
 ## Connect me via
 
