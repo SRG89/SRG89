@@ -73,13 +73,6 @@
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ed8b00&logoWidth=30&color=f3f7fa)
 &nbsp;
 
-## Skills
-
-- Tools: Terraform, AWS, Git, Docker
-- Focus: Infrastructure as Code, Cloud Security
-[![AWS Certified Cloud Practitioner]
-(https://images.credly.com/size/340*340/images/00634e1a-ea7a-4d29-9a66-296c22beaea3d/image.png)](https://www.credly.com/badges/8564deda-8802-453d-879d-6c47a6f73e97/public_url)
-
 ## Connect me via
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077b5&color=f3f7fa)][Linkedin]
