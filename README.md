@@ -86,7 +86,7 @@
 &nbsp;&nbsp;
 
 [Twitter]: https://twitter.com/OnlyOneSuyog
-[Linkedin]: https://linkedin.com/in/suyog89
+[Linkedin]: https://linkedin.com/in/suyog001
 
 
 
