@@ -9,12 +9,9 @@
 
 ## About Me
 
-- I'm passionate about using technology to streamline processes and optimize efficiency.
-- I'm currently looking for job as a DevOps Engineer
-- I like to build, toubleshoot and automate stuff whenever possible
-- I love to tackle complex debugging sessions that unlock system mysteries.
-- Eager to collaborate with teams on scalable infrastructure solutions.
-- When I am not working, I like to read books and play portal puzzles.
+- I am a Linux-focused infrastructure professional currently completing my training for the Red Hat Certified System Administrator (RHCSA) certification. I am passionate about building stable, efficient, and secure infrastructure. I enjoy troubleshooting complex technical challenges and using automation to streamline operational workflows.
+- I am currently looking for an opportunity as a Junior Application or Infrastructure Engineer where I can apply my skills in Linux system administration, log diagnostics, and incident resolution. I thrive in environments that require structured problem-solving and proactive system monitoring.
+- When I am not working on Linux systems, I enjoy reading and tackling complex logic puzzles—a hobby that has served me well in the debugging sessions I love. I am eager to collaborate with a team to ensure high service availability and operational excellence.
 
   
 <h3 align="left">Devops Tools Stack:</h3>
