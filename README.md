@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suyog</h1>
-<h3 align="center">DevOps and Cloud Enthusiast </h3>
+<h3 align="center">Linux Systems & Infrastructure Operations Enthusiast </h3>
 
 
 
