@@ -57,11 +57,7 @@
 &nbsp;
 </n>
 
-![](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=005571&logoWidth=30&color=f3f7fa)
-&nbsp;
-![](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=005571&logoWidth=30&color=f3f7fa)
-&nbsp;
-</n>
+
 
 ![](https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30)
 &nbsp;
